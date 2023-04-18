@@ -1,0 +1,23 @@
+{
+  "name": "async-platzi-project",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo con platzi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpfalcon/async-platzi-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpfalcon/async-platzi-project/issues"
+  },
+  "homepage": "https://github.com/lpfalcon/async-platzi-project#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
